@@ -1,0 +1,6 @@
+{
+  "name": ["Moscow", "Kazan", "Saint%20Petersburg", "Yekaterinburg"],
+  "days": 5,
+  "init": 3,
+  "freq": 600
+}
